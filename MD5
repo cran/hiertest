@@ -1,0 +1,13 @@
+6ea1f9fa7090454c307172c23e710398 *DESCRIPTION
+285d7d86432919bd4076b3d70d4aeb35 *NAMESPACE
+18d3097e8546cc807d150113f1e84a59 *R/hiertest-package.r
+f2c37d5f5c7b5a8a277d250f8b815054 *R/hiertest.R
+ff8db08c4af00fc047a501f11c625b90 *man/compute.contrasts.Rd
+db5ecb5f458ce6f72db5b28c72280360 *man/estimate.fdr.Rd
+6afdd6f294baafeb0bab2b898082010f *man/hiertest-package.Rd
+83057a13e4bb31956e89a0c8babb7ea4 *man/hiertest.Rd
+f7ec2289ff9d4b459128dc2191b6a791 *man/interactions.above.Rd
+c3640c57f7910a786fdaededf26d4f00 *man/plot.estfdr.Rd
+375fd53f112c8af141f7a79b9beef46c *man/plot.hiertest.Rd
+66719e1c6a63f075b8128ae784221da9 *man/print.estfdr.Rd
+836b2a1ea6b4638d26ffd133b15579cc *man/print.hiertest.Rd
